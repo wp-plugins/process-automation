@@ -1,4 +1,4 @@
-=== Process Automation (WooCommerce Support) ===
+=== Email Automation Sales Boost (WooCommerce) ===
 Contributors: tidiotidio,maciekmp
 Tags: widget, post, plugin, admin, posts, sidebar, marketing automation, marketo, sales manago, sales force, tidio automation
 Donate link: http://www.tidioautomation.com/
@@ -8,34 +8,30 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Process Automation Plugin allows you to automate processes in your ecommerce and raise the conversion. 100% Woocommerce support.
+Email Automation Sales Boost allows you to automate processes in your ecommerce and raise your conversion rate.
 
 == Description ==
 
-= Don’t you think that if: =
-* You’d send an email to your user with a question about why he didn’t go to the payments section, you could help him finish the process and raise the conversion?
-* You’d offer a discount after his last purchase, you’d encourage him to do the shopping again?
-* You’d ask your client about his satisfaction from your service a week after registration, you would be able to raise the quality of your service?
-              
-Discover a tool that will allow you to automate processes in your ecommerce in less than 15 minutes and start earning more, up to even 5-15% more.
+[youtube https://www.youtube.com/watch?v=fFR7OMmFqYc]
 
-**Marketing Automation** - It’s a world wide trend in ecommerce in which owners automate proccess in their webstores (e.g. send email after a purchase, offer a discount, recover  abandoned cart and more)  
+= BOOST YOUR SALES THROUGH EMAIL AUTOMATION AND EARN AT LEAST 15% MORE! =
+Email automation allows you to send personalized email to the right people, based on their bahaviour e.g., when they didn’t get to the payments section or has just registered their account. This and other actions allow you to earn at least 15% more!
 
-Understanding how important that is in selling online, we developed a tool that will allow you to easily automate tens of processes and start earning more.
+= How it works? =
 
-**Examples of processes that you can automate in just a few minutes from installation:**
+Tidio Automation is a solution that allows you to send automatic, personalized emails in few minutes using our very intuitive tool. On top of that you can send recurring, personalized offers or follow the results of your marketing actions
 
-* If your user will go to the payments section, but won’t buy the product, send him an email and ask if he needs any assistance
-* Send a welcoming email after registering in your webstore
-* Send email a week after registering with a customized special offer
-* Show a discount when user will be looking at a product for longer than 5 minutes
-* Ask for feedback about the quality of your service
-* Send a special offer to the group of clients that bought gifts at your webstore last christmas
+= What kind of automatic messages can I send after few minutes from installing the app and how is this going to benefit me? =
 
-= Additional features of Tidio Automation for WordPress: =
-* Create offers
-* Send mailing to desired users
-* Analyze users that visit your webstore
+* Send email when user adds a product to the cart but doesn’t proceed to the payments section, conversion grows between 3% and 5%
+* Send email after creating a new account by your visitor, conversion grows 0.5%
+* Send email 7 days after registering with a discount coupon, conversion grows 3%
+* Send email when user has a problem with the payments, conversion grows 2%
+* Send recurring personalized email offers, conversion grows between 1% and 2% with each email
+
+= Can I automate only the emails? =
+
+No, with our tool you can send messages through live chat, create groups of users (e.g. so you can send email to the whole group) or display offers in certain moments while all of that
 
 == Installation ==
 
