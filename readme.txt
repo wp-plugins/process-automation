@@ -1,6 +1,6 @@
 === Email Automation Sales Boost (WooCommerce) ===
 Contributors: tidiotidio,maciekmp
-Tags: widget, post, plugin, admin, posts, sidebar, marketing automation, marketo, sales manago, sales force, tidio automation
+Tags: woocommerce, analytics, auto responders, autoresponders, cf7, chat, contact form, contact form 7, drip campaigns, email, email autoresponders, email marketing, email nurture, form, lead generation, linkedin, mail, marketing, marketing automation, newsletter, notification, plugin, shortcode, shortcodes, social media, statistics, stats, tracking, twitter, widget, widgets, admin, tidio automation
 Donate link: http://www.tidioautomation.com/
 Requires at least: 3.4
 Tested up to: 4.1.1
