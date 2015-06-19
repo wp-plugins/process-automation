@@ -12,9 +12,8 @@ An incredibly simple plugin that encourages customers to finish their purchase b
 
 == Description ==
 
-[youtube https://www.youtube.com/watch?v=fFR7OMmFqYc]
-
 = BOOST YOUR SALES THROUGH EMAIL AUTOMATION AND EARN AT LEAST 15% MORE! =
+
 Our Abandoned Cart Plugin gives you the ability to remind your users of items they left in their carts without having made a purchase. This simple and effective technique brings users back to your website and gives them a refreshed look at your products. With Automation, not only can you remind your users of their abandoned cart but you can also offer them special discounts on certain products on their next visit to your store,( i.e. “Thanks for returning to the site, How about a 5% discount?”). You will also be able to add these users to your Help-center or register them as a ticket in your system
 
 The installation process couldn’t be any easier. Just add the plugin to your store and you’ll be ready to start automating processes. You won’t have to Login or register at all.
@@ -28,7 +27,9 @@ The installation process couldn’t be any easier. Just add the plugin to your s
 * Send recurring, personalized email offers, conversion grows between 1% and 2% with each email
 * Create your own Automations to suit your business and marketing need
 
-This plugin is completely free!
+= This plugin is completely free! =
+
+[youtube https://www.youtube.com/watch?v=fFR7OMmFqYc]
 
 == Installation ==
 
