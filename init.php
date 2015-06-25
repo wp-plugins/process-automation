@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Plugin Name: Process Automation (WooCommerce Support)
+ * Plugin Name: Abandoned Cart Automations for Woocommerce
  * Plugin URI: http://www.tidioautomation.com
- * Description:
- * Version: 1.1
+ * Description: Abandoned Cart Automations for Woocommerce
+ * Version: 1.1.1
  * Author: Tidio Ltd.
  * Author URI: http://www.tidioautomation.com
  * License: GPL2
@@ -14,6 +14,7 @@ class TidioAutomation {
     private $scriptUrl = '//code.tidio.co/';
 
     public function __construct() {
+		
         add_action('admin_menu', array($this, 'addAdminMenuLink'));
         add_action('admin_footer', array($this, 'adminJS'));
 
@@ -27,7 +28,7 @@ class TidioAutomation {
 		
 		if(!class_exists('TidioOneApi')){
 
-			$tidioOneLibPath = plugin_dir_path(__FILE__).'classes/TidioOneApi.php';
+			$tidioOneLibPath = plugin_dir_path(__FILE__).'TidioOneApi.php';
 			
 			if(file_exists($tidioOneLibPath)){
 				

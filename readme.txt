@@ -1,4 +1,4 @@
-=== Woocommerce Abandoned Cart Automations ===
+=== Abandoned Cart Automations for Woocoomerce ===
 Contributors: tidiotidio,maciekmp
 Tags: abandoned cart, shopping cart abandonment, woocommerce, tidio, automation, post, plugin, admin, zopim, marketing automation, abandon cart
 Donate link: http://www.tidioautomation.com/
