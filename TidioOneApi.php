@@ -30,8 +30,12 @@ class TidioOneApi {
         $url = $url . '?data=' . base64_encode(json_encode($data));
 		
 		//
-								
-        $response = file_get_contents($url);
+		
+		@$response = file_get_contents($url);
+					
+		if(!$response){	
+			$response = '{"status": false, "value": null}';
+		}
 		
         return $response;
     }

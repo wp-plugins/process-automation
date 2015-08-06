@@ -4,7 +4,7 @@
  * Plugin Name: Abandoned Cart Automations for Woocommerce
  * Plugin URI: http://www.tidioautomation.com
  * Description: Abandoned Cart Automations for Woocommerce
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: Tidio Ltd.
  * Author URI: http://www.tidioautomation.com
  * License: GPL2
